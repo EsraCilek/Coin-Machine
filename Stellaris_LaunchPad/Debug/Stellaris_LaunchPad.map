@@ -1,0 +1,881 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+                              ./src/main.o (GPIOPinWrite)
+/home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+                              /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o) (IntRegister)
+/home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+                              ./SW-EK-LM4F120XL-9453/utils/uartstdio.o (SysCtlPeripheralPresent)
+/home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+                              ./SW-EK-LM4F120XL-9453/utils/uartstdio.o (UARTEnable)
+/home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+                              /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o) (CPUcpsid)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+ .text          0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_line    0x0000000000000000       0x7e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_info    0x0000000000000000       0xa8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./src/startup_gcc.o
+ .text          0x0000000000000000        0x0 ./src/startup_gcc.o
+ .data          0x0000000000000000        0x0 ./src/startup_gcc.o
+ .bss           0x0000000000000000        0x0 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000      0x880 ./src/startup_gcc.o
+ .debug_macro   0x0000000000000000       0xca ./src/startup_gcc.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .group         0x0000000000000000        0x8 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text          0x0000000000000000        0x0 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .data          0x0000000000000000        0x0 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .bss           0x0000000000000000        0x0 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .bss.g_ulBase  0x0000000000000000        0x4 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .rodata        0x0000000000000000       0x26 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .rodata.g_pcHex
+                0x0000000000000000        0x4 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .rodata.g_ulUARTBase
+                0x0000000000000000        0xc ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .rodata.g_ulUARTPeriph
+                0x0000000000000000        0xc ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTStdioConfig
+                0x0000000000000000       0x68 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTStdioInit
+                0x0000000000000000       0x24 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTStdioInitExpClk
+                0x0000000000000000       0x24 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTwrite
+                0x0000000000000000       0x5c ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTgets
+                0x0000000000000000       0xdc ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTgetc
+                0x0000000000000000       0x1c ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text.UARTprintf
+                0x0000000000000000      0x408 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .bss.bLastWasCR.4477
+                0x0000000000000000        0x1 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_info    0x0000000000000000      0x349 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_abbrev  0x0000000000000000      0x10e ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_aranges
+                0x0000000000000000       0x50 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_ranges  0x0000000000000000       0x40 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x7e ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x880 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x58 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x371 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x278 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0xca ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x612 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x10 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0x10 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000       0xca ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000     0x12f2 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0xb82 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_macro   0x0000000000000000      0x188 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_line    0x0000000000000000      0x3a6 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_str     0x0000000000000000    0x105a4 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .comment       0x0000000000000000       0x2c ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .debug_frame   0x0000000000000000      0x120 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .ARM.attributes
+                0x0000000000000000       0x37 ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOGetIntNumber
+                0x0000000000000000      0x140 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODirModeGet
+                0x0000000000000000       0x24 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntTypeSet
+                0x0000000000000000       0x4a /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOIntTypeGet
+                0x0000000000000000       0x32 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPadConfigGet
+                0x0000000000000000       0x76 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinIntEnable
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinIntDisable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinIntStatus
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinIntClear
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPortIntRegister
+                0x0000000000000000       0x1a /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPortIntUnregister
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinRead
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeADC
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeCAN
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeComparator
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeEPI
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeEthernetLED
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeEthernetMII
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeFan
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOInput
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeGPIOOutputOD
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2C
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2CSCL
+                0x0000000000000000       0x90 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeI2S
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeLPC
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypePECIRx
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypePECITx
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypePWM
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeQEI
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeSSI
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeTimer
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeUART
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeUSBAnalog
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinTypeUSBDigital
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOPinConfigure
+                0x0000000000000000       0x4c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODMATriggerEnable
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIODMATriggerDisable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOADCTriggerEnable
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text.GPIOADCTriggerDisable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .rodata.g_pulGPIOBaseAddrs
+                0x0000000000000000       0x78 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntDefaultHandler
+                0x0000000000000000        0x2 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterEnable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntMasterDisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntRegister
+                0x0000000000000000       0x30 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntUnregister
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingSet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGroupingGet
+                0x0000000000000000       0x24 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPrioritySet
+                0x0000000000000000       0x28 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityGet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntEnable
+                0x0000000000000000       0x60 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntDisable
+                0x0000000000000000       0x60 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntIsEnabled
+                0x0000000000000000       0x64 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendSet
+                0x0000000000000000       0x50 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPendClear
+                0x0000000000000000       0x40 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskSet
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text.IntPriorityMaskGet
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pulEnRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pulDisRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pulPendRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pulUnpendRegs
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ vtable         0x0000000000000000      0x400 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pulPriority
+                0x0000000000000000       0x20 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .rodata.g_pulRegs
+                0x0000000000000000       0x9c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .comment       0x0000000000000000       0x2c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .ARM.attributes
+                0x0000000000000000       0x37 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(interrupt.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralMapToNew
+                0x0000000000000000       0x24 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSRAMSizeGet
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlFlashSizeGet
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPinPresent
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPresent
+                0x0000000000000000       0x7c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReady
+                0x0000000000000000       0x38 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOn
+                0x0000000000000000       0x38 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralPowerOff
+                0x0000000000000000       0x38 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralReset
+                0x0000000000000000       0x8c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDisable
+                0x0000000000000000       0x5c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepEnable
+                0x0000000000000000       0x5c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralSleepDisable
+                0x0000000000000000       0x5c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepEnable
+                0x0000000000000000       0x5c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralDeepSleepDisable
+                0x0000000000000000       0x5c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPeripheralClockGating
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntRegister
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntUnregister
+                0x0000000000000000       0x12 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntEnable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntDisable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntClear
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIntStatus
+                0x0000000000000000       0x18 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlLDOConfigSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlReset
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlSleep
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleep
+                0x0000000000000000       0x20 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlResetCauseClear
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlBrownOutConfigSet
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlMOSCConfigSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPIOSCCalibrate
+                0x0000000000000000       0x54 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClockGet
+                0x0000000000000000      0x22c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlDeepSleepClockSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockSet
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPWMClockGet
+                0x0000000000000000       0x18 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlADCSpeedSet
+                0x0000000000000000       0x20 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlADCSpeedGet
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlIOSCVerificationSet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlMOSCVerificationSet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlPLLVerificationSet
+                0x0000000000000000       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlClkVerificationClear
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBEnable
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlGPIOAHBDisable
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLEnable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlUSBPLLDisable
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text.SysCtlI2SMClkSet
+                0x0000000000000000       0xe0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss.ulOscSelect
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss.ulSysDiv  0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss.ulOsc     0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pulDCRegs
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pulXtals
+                0x0000000000000000       0x6c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pulDCGCRegs
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_ppulPeripheralMap
+                0x0000000000000000      0x120 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pulSCGCRegs
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .rodata.g_pulSRCRRegs
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .bss.bNewPLL   0x0000000000000000        0x1 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntNumberGet
+                0x0000000000000000       0x28 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTParityModeGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOLevelSet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOLevelGet
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTConfigGetExpClk
+                0x0000000000000000       0x28 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTEnable
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDisable
+                0x0000000000000000       0x1e /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTConfigSetExpClk
+                0x0000000000000000       0x4e /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFOEnable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFIFODisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTEnableSIR
+                0x0000000000000000       0x14 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDisableSIR
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSmartCardEnable
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSmartCardDisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlClear
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemControlGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTModemStatusGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFlowControlSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTFlowControlGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTTxIntModeSet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTTxIntModeGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharsAvail
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTSpaceAvail
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharGetNonBlocking
+                0x0000000000000000       0x10 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharGet
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharPutNonBlocking
+                0x0000000000000000       0x12 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTCharPut
+                0x0000000000000000        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTBreakCtl
+                0x0000000000000000       0x18 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTBusy
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntRegister
+                0x0000000000000000       0x1a /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntUnregister
+                0x0000000000000000       0x16 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntEnable
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntDisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntStatus
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTIntClear
+                0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDMAEnable
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTDMADisable
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTRxErrorGet
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTRxErrorClear
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTClockSourceSet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UARTClockSourceGet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitEnable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitDisable
+                0x0000000000000000        0xe /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitAddrSet
+                0x0000000000000000        0xa /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text.UART9BitAddrSend
+                0x0000000000000000       0x28 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .rodata.g_ppulUARTIntMap
+                0x0000000000000000       0x40 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .comment       0x0000000000000000       0x2c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .ARM.attributes
+                0x0000000000000000       0x37 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(uart.o)
+ .text          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .data          0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .bss           0x0000000000000000        0x0 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsid
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUprimask
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUcpsie
+                0x0000000000000000        0x8 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUwfi   0x0000000000000000        0x4 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriSet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text.CPUbasepriGet
+                0x0000000000000000        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .comment       0x0000000000000000       0x2c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .ARM.attributes
+                0x0000000000000000       0x37 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(cpu.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000       0xfe /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xaa /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x221 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x8de /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1d6 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x162 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x5be /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000       0xfa /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xbd /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x5c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0x9f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x219 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .data          0x0000000000000000      0x430 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x0000000000000000        0x2 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_info    0x0000000000000000      0x89b /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000000      0x180 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000000       0x18 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_line    0x0000000000000000       0xe9 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_str     0x0000000000000000      0x5b5 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .text          0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_info    0x0000000000000000      0x110 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000000       0xba /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_loc     0x0000000000000000       0xae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_line    0x0000000000000000       0xb8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_str     0x0000000000000000      0x243 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .text          0x0000000000000000       0x9c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_info    0x0000000000000000      0x11e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000000000       0x9f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_loc     0x0000000000000000      0x1ae /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_line    0x0000000000000000      0x111 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_str     0x0000000000000000      0x1f8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x92e /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x20f /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x197 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x184 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x5f6 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xd8 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .text.startup  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0x9a5 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x270 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x17b /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x38 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x1b0 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x615 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .comment       0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000040000 xr
+SRAM             0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+LOAD ./src/main.o
+LOAD ./src/startup_gcc.o
+LOAD ./SW-EK-LM4F120XL-9453/utils/uartstdio.o
+LOAD /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+
+.text           0x0000000000000000     0x262c
+                0x0000000000000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000      0x26c ./src/startup_gcc.o
+                0x0000000000000000                g_pfnVectors
+ *(.text*)
+ .text.Lcd_init
+                0x000000000000026c      0x108 ./src/main.o
+                0x000000000000026c                Lcd_init
+ .text.Lcd_Komut
+                0x0000000000000374       0x94 ./src/main.o
+                0x0000000000000374                Lcd_Komut
+ .text.Lcd_Putch
+                0x0000000000000408       0x90 ./src/main.o
+                0x0000000000000408                Lcd_Putch
+ .text.Lcd_Goto
+                0x0000000000000498       0x6c ./src/main.o
+                0x0000000000000498                Lcd_Goto
+ .text.Lcd_Temizle
+                0x0000000000000504       0x14 ./src/main.o
+                0x0000000000000504                Lcd_Temizle
+ .text.Lcd_Puts
+                0x0000000000000518       0x30 ./src/main.o
+                0x0000000000000518                Lcd_Puts
+ .text.PortE_init
+                0x0000000000000548       0x80 ./src/main.o
+                0x0000000000000548                PortE_init
+ .text.PortA_init
+                0x00000000000005c8       0x58 ./src/main.o
+                0x00000000000005c8                PortA_init
+ .text.main     0x0000000000000620     0x19c0 ./src/main.o
+                0x0000000000000620                main
+ .text.ResetISR
+                0x0000000000001fe0       0x6c ./src/startup_gcc.o
+                0x0000000000001fe0                ResetISR
+ .text.NmiSR    0x000000000000204c        0x8 ./src/startup_gcc.o
+ .text.FaultISR
+                0x0000000000002054        0x8 ./src/startup_gcc.o
+ .text.IntDefaultHandler
+                0x000000000000205c        0x8 ./src/startup_gcc.o
+ .text.GPIODirModeSet
+                0x0000000000002064       0x2e /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002064                GPIODirModeSet
+ .text.GPIOPadConfigSet
+                0x0000000000002092       0xce /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002092                GPIOPadConfigSet
+ .text.GPIOPinWrite
+                0x0000000000002160        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002160                GPIOPinWrite
+ .text.GPIOPinTypeGPIOOutput
+                0x0000000000002166       0x1c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+                0x0000000000002166                GPIOPinTypeGPIOOutput
+ *fill*         0x0000000000002182        0x2 
+ .text.SysCtlPeripheralEnable
+                0x0000000000002184       0x5c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+                0x0000000000002184                SysCtlPeripheralEnable
+ .text.SysCtlDelay
+                0x00000000000021e0        0x6 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000021e0                SysCtlDelay
+ *fill*         0x00000000000021e6        0x2 
+ .text.SysCtlClockSet
+                0x00000000000021e8      0x174 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+                0x00000000000021e8                SysCtlClockSet
+ *(.rodata*)
+ .rodata        0x000000000000235c      0x2ac ./src/main.o
+ .rodata.g_pulRCGCRegs
+                0x0000000000002608        0xc /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ *(.init)
+ .init          0x0000000000002614        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+                0x0000000000002614                _init
+ .init          0x0000000000002618        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+ *(.fini)
+ .fini          0x0000000000002620        0x4 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+                0x0000000000002620                _fini
+ .fini          0x0000000000002624        0x8 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+                0x000000000000262c                _etext = .
+
+.glue_7         0x000000000000262c        0x0
+ .glue_7        0x000000000000262c        0x0 linker stubs
+
+.glue_7t        0x000000000000262c        0x0
+ .glue_7t       0x000000000000262c        0x0 linker stubs
+
+.vfp11_veneer   0x000000000000262c        0x0
+ .vfp11_veneer  0x000000000000262c        0x0 linker stubs
+
+.v4_bx          0x000000000000262c        0x0
+ .v4_bx         0x000000000000262c        0x0 linker stubs
+
+.iplt           0x000000000000262c        0x0
+ .iplt          0x000000000000262c        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+
+.rel.dyn        0x000000000000262c        0x0
+ .rel.iplt      0x000000000000262c        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+
+.data           0x0000000020000000        0x0 load address 0x000000000000262c
+                0x0000000020000000                _data = .
+ *(vtable)
+ *(.data*)
+                0x0000000020000000                _edata = .
+
+.igot.plt       0x0000000020000000        0x0
+ .igot.plt      0x0000000020000000        0x0 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtbegin.o
+
+.bss            0x0000000020000000      0x200
+                0x0000000020000000                _bss = .
+ *(.bss*)
+ .bss.pulStack  0x0000000020000000      0x200 ./src/startup_gcc.o
+ *(COMMON)
+                0x0000000020000200                _ebss = .
+OUTPUT(Stellaris_LaunchPad.elf elf32-littlearm)
+
+.ARM.attributes
+                0x0000000000000000       0x2e
+ .ARM.attributes
+                0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x37 ./src/main.o
+ .ARM.attributes
+                0x0000000000000059       0x37 ./src/startup_gcc.o
+ .ARM.attributes
+                0x0000000000000090       0x37 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+ .ARM.attributes
+                0x00000000000000c7       0x37 /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+ .ARM.attributes
+                0x00000000000000fe       0x22 /usr/lib/gcc/arm-none-eabi/5.4.1/armv7e-m/softfp/crtn.o
+
+.comment        0x0000000000000000       0x56
+ .comment       0x0000000000000000       0x2b ./src/main.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c ./src/startup_gcc.o
+ .comment       0x000000000000002b       0x2b /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(gpio.o)
+                                         0x2c (size before relaxing)
+ .comment       0x0000000000000056       0x2c /home/student/eclipse-workspace/Stellaris_LaunchPad/SW-EK-LM4F120XL-9453/driverlib/gcc/libdriver.a(sysctl.o)
+
+.debug_info     0x0000000000000000      0x3bf
+ .debug_info    0x0000000000000000      0x29e ./src/main.o
+ .debug_info    0x000000000000029e      0x121 ./src/startup_gcc.o
+
+.debug_abbrev   0x0000000000000000      0x187
+ .debug_abbrev  0x0000000000000000       0xdb ./src/main.o
+ .debug_abbrev  0x00000000000000db       0xac ./src/startup_gcc.o
+
+.debug_aranges  0x0000000000000000       0x98
+ .debug_aranges
+                0x0000000000000000       0x60 ./src/main.o
+ .debug_aranges
+                0x0000000000000060       0x38 ./src/startup_gcc.o
+
+.debug_ranges   0x0000000000000000       0x78
+ .debug_ranges  0x0000000000000000       0x50 ./src/main.o
+ .debug_ranges  0x0000000000000050       0x28 ./src/startup_gcc.o
+
+.debug_macro    0x0000000000000000     0xd863
+ .debug_macro   0x0000000000000000      0x19e ./src/main.o
+ .debug_macro   0x000000000000019e      0x880 ./src/main.o
+ .debug_macro   0x0000000000000a1e     0x8fd8 ./src/main.o
+ .debug_macro   0x00000000000099f6       0x22 ./src/main.o
+ .debug_macro   0x0000000000009a18       0x87 ./src/main.o
+ .debug_macro   0x0000000000009a9f       0x44 ./src/main.o
+ .debug_macro   0x0000000000009ae3       0xfd ./src/main.o
+ .debug_macro   0x0000000000009be0       0x5e ./src/main.o
+ .debug_macro   0x0000000000009c3e      0x1df ./src/main.o
+ .debug_macro   0x0000000000009e1d       0x52 ./src/main.o
+ .debug_macro   0x0000000000009e6f       0x35 ./src/main.o
+ .debug_macro   0x0000000000009ea4       0x9c ./src/main.o
+ .debug_macro   0x0000000000009f40       0x16 ./src/main.o
+ .debug_macro   0x0000000000009f56      0x10e ./src/main.o
+ .debug_macro   0x000000000000a064       0x8d ./src/main.o
+ .debug_macro   0x000000000000a0f1       0x52 ./src/main.o
+ .debug_macro   0x000000000000a143       0x1f ./src/main.o
+ .debug_macro   0x000000000000a162       0x43 ./src/main.o
+ .debug_macro   0x000000000000a1a5       0x20 ./src/main.o
+ .debug_macro   0x000000000000a1c5      0x187 ./src/main.o
+ .debug_macro   0x000000000000a34c      0x30d ./src/main.o
+ .debug_macro   0x000000000000a659       0x16 ./src/main.o
+ .debug_macro   0x000000000000a66f       0x29 ./src/main.o
+ .debug_macro   0x000000000000a698      0x371 ./src/main.o
+ .debug_macro   0x000000000000aa09       0xca ./src/main.o
+ .debug_macro   0x000000000000aad3      0x278 ./src/main.o
+ .debug_macro   0x000000000000ad4b      0xb82 ./src/main.o
+ .debug_macro   0x000000000000b8cd       0xb2 ./src/main.o
+ .debug_macro   0x000000000000b97f      0x38a ./src/main.o
+ .debug_macro   0x000000000000bd09       0x23 ./src/startup_gcc.o
+ .debug_macro   0x000000000000bd2c     0x1b37 ./src/startup_gcc.o
+
+.debug_line     0x0000000000000000      0x7ec
+ .debug_line    0x0000000000000000      0x6f1 ./src/main.o
+ .debug_line    0x00000000000006f1       0xfb ./src/startup_gcc.o
+
+.debug_str      0x0000000000000000    0x3ccd7
+ .debug_str     0x0000000000000000    0x3b315 ./src/main.o
+                                      0x3b507 (size before relaxing)
+ .debug_str     0x000000000003b315     0x19c2 ./src/startup_gcc.o
+                                       0x9dba (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x1c4
+ .debug_frame   0x0000000000000000      0x148 ./src/main.o
+ .debug_frame   0x0000000000000148       0x7c ./src/startup_gcc.o
